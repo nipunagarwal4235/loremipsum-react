@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/loremipsum-react/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/loremipsum-react/static/js/main.5ca91827.chunk.js",
+    "main.js.map": "/loremipsum-react/static/js/main.5ca91827.chunk.js.map",
+    "runtime-main.js": "/loremipsum-react/static/js/runtime-main.e5a52e82.js",
+    "runtime-main.js.map": "/loremipsum-react/static/js/runtime-main.e5a52e82.js.map",
+    "static/js/2.d8a71053.chunk.js": "/loremipsum-react/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/loremipsum-react/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/loremipsum-react/index.html",
+    "precache-manifest.1dac23009214e3c52146252684b2b927.js": "/loremipsum-react/precache-manifest.1dac23009214e3c52146252684b2b927.js",
+    "service-worker.js": "/loremipsum-react/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/loremipsum-react/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/loremipsum-react/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5a52e82.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.5ca91827.chunk.js"
+  ]
+}
